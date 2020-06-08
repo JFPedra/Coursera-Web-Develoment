@@ -1,0 +1,49 @@
+body {
+	background-color: rgb(200, 199, 199);
+	padding-top: 70px;
+}
+p {
+	text-align: justify;
+	font-family: 'Architects Daughter', cursive;
+	padding: 10px;
+
+}
+/**HEADER*/
+#header-nav {
+	background-color: #E2391E; 
+}
+.navbar-brand h1 {
+	font-family: 'Barlow', sans-serif;
+	color: black;
+	margin: -10px 15px 30px;
+}
+
+/**DropdownList**/
+div.navbar-collapse {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+#nav-list {
+	margin: 0px;
+	text-align: center;
+	font-size: 1.5em;
+	font-family: 'Barlow', sans-serif;
+	background-color: #E36F5C;	
+}
+/** Main Content**/
+div.container h2 {
+	font-family: 'Barlow', sans-serif;
+}
+div h3 {
+	font-family: 'Barlow', sans-serif;
+	padding-top: 10px;
+}
+#chicken, #beff, #sushi {
+	background-color: #3BD5F0;
+	width: 95%;
+	margin: 30px auto 30px auto;
+	float: none;
+	border-radius: 5px;
+
+
+}
